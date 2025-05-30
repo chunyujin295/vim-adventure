@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+  vim-adventures:
+    build:
+      context: .
+      args:
+        APP_DIR: ${APP_DIR}
+    image: vim-adventures:latest
+    ports:
+     - ${PORT}:${PORT}
+    env_file: .env
