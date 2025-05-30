@@ -3,6 +3,8 @@
 > 本篇章为原版README
 >
 > this page is original README
+>
+> 中文使用教程请见文件"README_Chinese.md"
 
 ![create-release](https://github.com/09wattry/vim-adventures/workflows/create-release/badge.svg)
 ![create-release](https://github.com/09wattry/vim-adventures/workflows/publish-binaries/badge.svg)
